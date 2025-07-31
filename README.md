@@ -99,7 +99,7 @@ python src/evaluate.py
 
 ---
 
-## 🧺 Results Summary
+## Results Summary
 
 | Model              | Optimizer     | Test Accuracy |
 |-------------------|---------------|---------------|
