@@ -1,0 +1,11 @@
+{
+  "optimizer": "sgd",
+  "epochs": 10,
+  "lr": 0.01,
+  "momentum": 0.9,
+  "weight_decay": 0.0,
+  "train_loss_last": 0.05211571105054269,
+  "train_acc_last": 0.9827666666666667,
+  "test_acc": 0.9733,
+  "test_loss": 0.083370415987866
+}

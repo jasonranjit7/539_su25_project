@@ -1,0 +1,70 @@
+{
+  "runs": [
+    {
+      "optimizer": "manual_sgd",
+      "epochs": 10,
+      "lr": 0.01,
+      "momentum": 0.9,
+      "weight_decay": 0.0,
+      "train_loss_last": 0.18056100298961003,
+      "train_acc_last": 0.9477333333333333,
+      "test_acc": 0.9478,
+      "test_loss": 0.17505600911080837
+    },
+    {
+      "optimizer": "sgd",
+      "epochs": 10,
+      "lr": 0.01,
+      "momentum": 0.9,
+      "weight_decay": 0.0,
+      "train_loss_last": 0.05211571105054269,
+      "train_acc_last": 0.9827666666666667,
+      "test_acc": 0.9733,
+      "test_loss": 0.083370415987866
+    },
+    {
+      "optimizer": "manual_adam",
+      "epochs": 10,
+      "lr": 0.001,
+      "momentum": 0.9,
+      "weight_decay": 0.0,
+      "train_loss_last": 0.06414927560773989,
+      "train_acc_last": 0.979,
+      "test_acc": 0.9701,
+      "test_loss": 0.09956359949475155
+    },
+    {
+      "optimizer": "adam",
+      "epochs": 10,
+      "lr": 0.001,
+      "momentum": 0.9,
+      "weight_decay": 0.0,
+      "train_loss_last": 0.0687834708288312,
+      "train_acc_last": 0.9773,
+      "test_acc": 0.9694,
+      "test_loss": 0.10317630875464529
+    },
+    {
+      "optimizer": "manual_adamw",
+      "epochs": 10,
+      "lr": 0.001,
+      "momentum": 0.9,
+      "weight_decay": 0.01,
+      "train_loss_last": 0.06127738956560691,
+      "train_acc_last": 0.9804833333333334,
+      "test_acc": 0.9692,
+      "test_loss": 0.08951517573697493
+    },
+    {
+      "optimizer": "adamw",
+      "epochs": 10,
+      "lr": 0.001,
+      "momentum": 0.9,
+      "weight_decay": 0.01,
+      "train_loss_last": 0.06663416104788582,
+      "train_acc_last": 0.9788333333333333,
+      "test_acc": 0.9706,
+      "test_loss": 0.09869785751998425
+    }
+  ]
+}

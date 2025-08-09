@@ -1,0 +1,11 @@
+{
+  "optimizer": "adam",
+  "epochs": 10,
+  "lr": 0.001,
+  "momentum": 0.9,
+  "weight_decay": 0.0,
+  "train_loss_last": 0.0687834708288312,
+  "train_acc_last": 0.9773,
+  "test_acc": 0.9694,
+  "test_loss": 0.10317630875464529
+}
